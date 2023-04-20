@@ -29,7 +29,7 @@
             O clima local permite que você acompanhe o clima atual e futuro das
             cidades de sua escolha.
           </p>
-          <h2 class="text-2xl">How it works:</h2>
+          <h2 class="text-2xl">Como funciona:</h2>
           <ol class="list-decimal list-inside mb-4">
             <li>Pesquise sua cidade digitando o nome na barra de pesquisa.</li>
             <li>
@@ -42,7 +42,7 @@
             </li>
           </ol>
 
-          <h2 class="text-2xl">Removing a city</h2>
+          <h2 class="text-2xl">Removendo uma cidade:</h2>
           <p>
             Se você não deseja mais rastrear uma cidade, basta selecionar a
             cidade na página inicial. No final da página, haverá uma opção para
